@@ -3,7 +3,7 @@ Links and resources for strengthening the concepts of Object Oriented Programmin
 To the point for Interview Preparation and sufficient for Academics.
 
 Love Babbar CheatSheet : [cheatsheet](https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw) <br>
-Love Babbar Video : [video](https://youtu.be/wWejXusF9qU)
+Love Babbar Video : [video](https://youtu.be/wWejXusF9qU) <br>
 Oop interview questions: [interviewbit](https://www.interviewbit.com/oops-interview-questions/)
 
 ## Useful Links
